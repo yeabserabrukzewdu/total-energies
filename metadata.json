@@ -1,0 +1,6 @@
+{
+  "name": "Fuel Tanker Safe-To-Unload Checklist",
+  "description": "Bilingual Amharic and English safe-to-unload inspection checklist for fuel tanker trucks at Gulelle Medhanialem TotalEnergies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
